@@ -1,0 +1,4 @@
+
+c-seleniumGrid icinde sag clikleyip terminali acip icine
+"java -jar selenium-server-4.18.1.jar standalone" kodonu yazip enter yapilir  "TERMINAL ACIK IKEN calisilabilinir"
+http adresi copyalayip browser dan acilir
